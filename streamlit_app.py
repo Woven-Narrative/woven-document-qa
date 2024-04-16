@@ -78,6 +78,6 @@ with st.form('myform', clear_on_submit=True):
             result.append(response)
 
 if len(result):
-    st.success(response)
+    st.text(response)
 
 #st.text(context)
