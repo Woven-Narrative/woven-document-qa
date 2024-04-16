@@ -1,0 +1,229 @@
+ Technical Report for the 
+Candelaria Copper Mining Complex,  Atacama Region, Region III, Chile
+ 
+Executive Summary 
+ 
+The Candelaria Copper Mining Complex (CCMC) comprises two adjacent copper operations 
+producing copper concentrates from open pit and underground mines located near Copiapó in the 
+Atacama Region, Region III of Chile: Compañia Contra ctual Minera Candelaria  (Minera Candelaria 
+or Candelaria) and Compañia Contractual Minera Ojos del Salado (Minera Ojos del Salado or Ojos del Salado). Minera Candelaria is an open pit and underground mine providing copper ore to an on-
+site concentrator with a capacity of 75,000 tonnes per day. Minera Ojos del Salado comprises two 
+underground mines, Santos and Alcaparrosa. The Sa ntos mine provides copper ore to an on-site 
+concentrator with a capacity of 3,700 tonnes  per day and 1,400 tonnes per day to the Minera 
+Candelaria mill, while all ore from the Alcaparros a mine is treated at the Minera Candelaria mill. 
+ 
+The Candelaria Copper Mining Complex is indirectly owned by Lundin Mining Corporation (LMC or the Company) (80%) and Sumitomo Metals Mining Co ., Ltd. and Sumitomo Corporation (collectively, 
+Sumitomo) (20%). For clarity, references to "Candel aria Copper Mining Complex" or "CCMC" in this 
+Technical Report refer to both the Minera Candelaria and Minera Ojos del Salado properties. 
+ 
+Lundin Mining Corporation is a diversified Canadian base metals mining company with operations 
+and projects in Argentina, Brazil, Chile, Portugal , Sweden, and the United States of America, 
+primarily producing copper, zinc, gold and nickel. LMC is a Canadian public company with its head 
+office in Toronto, Canada and its common shares are listed on the Toronto Stock Exchange (symbol 
+LUN) and the NASDAQ Stockholm (symbol LUMI).  
+In June 2022, LMC retained the services of SRK Consulting (Canada) Inc. (SRK) to visit the 
+Candelaria Copper Mining Complex and to compile this Technical Teport pursuant to National 
+Instrument 43-101 Standards of Disclosure for Mine ral Projects and Form 43-101F1. This Technical 
+Report updates the November 28, 2018, Techni cal Report entitled "Technical Report for the 
+Candelaria Copper Mining Complex,  Atacama Region, Region III, Chile".  It summarizes the technical 
+information that is relevant to support the di sclosure of the updated Mineral Resources and Mineral 
+Reserves estimates (as of December 31, 2022) contained herein prepared using revised economic 
+parameters and the positive results of recent exploration programs. 
+ 
+Since acquiring Freeport-McMoRan Inc.'s 80% interest in the CCMC in November 2014, LMC has 
+actively grown the annual reported Mineral Resources and Mineral Reserves by a combination of 
+factors. Although this growth was primarily driven by exploration success,  other factors including 
+Mineral Resource modelling optimizations, operational efficiencies and innovation and the reduction 
+of reporting cut-off grades also contributed to th is growth. Although drilling exploration expenditure 
+targeting Mineral Resource expansion has decreased in recent years, with reported Mineral Resources and Reserves having plateaued, LMC has managed to comfortably replace depleted 
+Mineral Reserves on an annual basis. CCMC expl oration staff will continue to define and upgrade 
+underground and open pit Mineral Resource estimates on the property but will also turn their 
+attention to evaluate the considerable exploration po tential in areas external to the current mine plan. CAPR002061 – Lundin Mining Corporation 
+Technical Report for the Candelaria Copper Mining Complex, Chile Page iv 
+ 
+Property Description, Location and Access 
+ The Candelaria Copper Mining Complex is in Chile's Atacama Region, Region III, approximately 
+20 kilometres south of the city of Copiapó and adjac ent to the community of Tierra Amarilla all of 
+which are approximately 650 kilometres north of S antiago (Figure i and Figure ii). The properties are 
+easily accessed using the public road system. Copiapó is a modern city with all the regular services 
+and a population of approximately 170,000. Personnel employed by  the Candelaria Copper Mining 
+Complex are primarily from the Atacama region. Th e Candelaria and Ojos del Salado mines receive 
+electrical power through long-term  contracts with AES Andes S.A., a nation-wide energy company.  
+ 
+The primary water supply comes from a desalination plant, which was commissioned in 2013 and is 
+located at the Punta Padrones port facility at t he nearby seaport of Caldera. Both the desalination 
+plant and the Punta Padrones port are owned by Minera Candelaria. The copper concentrate is 
+trucked from site to local customers or sh ipped from Punta Padrones to world markets. 
+ 
+SRK Team   February 22, 2023 Copiapó has a desert climate with mild temperatur es year-round. Winters are mild with warm 
+temperatures. Annual precipitation averages approxim ately 17 millimetres, the majority of which falls 
+in the winter months. The elevation of the mini ng operations does not exceed 800 metres above sea 
+level. The climate and relatively low elevation al low for year-round mining and exploration activities. 
+ 
+The Minera Candelaria property comprises inside Candelaria District 220 mining exploitation 
+concessions (approximately 6,094 he ctares) and 29 mining explorati on concessions (approximately 
+6,680 hectares) (Figure 2 and Appendix A) and outsi de Candelaria District 51 mining exploitation 
+concessions (approximately 5,966 he ctares) and 11 mining explorati on concessions (approximately 
+1,300 hectares). The tenements are free of mortgag es, encumbrances, prohibitions, injunctions, and 
+litigation. The tenements containing the active and future mining activities are not affected by 
+royalties. The Candelaria Copper Mining Complex holds certain surface and underground water use 
+rights and certain surface water use rights, all free of mortgages, encumbrances, prohibitions, 
+injunctions, and litigation. 
+ 
+There are no known factors or risks that may affect access, title, or the right or ability to perform work 
+on the Candelaria Copper Mining Complex.  
+ 
+Geology, Mineralization, and Deposit Types 
+ 
+Regional, Local, and Property Geology 
+ 
+The Candelaria sulphide deposit is located at t he boundary between the Coastal Cordillera and the 
+Copiapó Precordillera. The Coastal Cordillera of Chañaral and Copiapó is composed of Permian to Lower Cretaceous intrusions within a basement  of metasedimentary rocks of Devonian to 
+Carboniferous age. Volcanic, volcaniclastic, and ma rine carbonate rocks represent intra- and back-
+arc sequences that were deposited during Early to Mid-Cretaceous.   The Candelaria, Santos and Alcaparrosa mines and the Española deposit are located in the district 
+of Punta del Cobre. The polymetallic sulphide deposi ts are hosted in volcanic rocks of the Punta del 
+Cobre Formation. Polymetallic sulphide deposits in the Punta del Cobre district are located to the 
+east of the main branches of the Atacama fault z one, a subduction-linked, strike-slip fault system 
+stretching over 1,000 kilometres along the Chilean coast and active at least since the Jurassic. The dominant structural elements of t he Punta del Cobre area are the no rtheast-trending Tierra Amarilla 
+Anticlinorium, a southeast-verging fold-and-thrust  system and a series of north-northwest- to 
+northwest-trending high-angle faults.
+
+Calcareous, sedimentary, and volcaniclastic rock of the Abundancia and Punta del Cobre formations 
+are exposed within the open pit of the Candelaria mine. The lowermost unit in the Candelaria mine and Candelaria Underground is the Lower Andesite, a compact succession of porphyritic to massive 
+andesite and volcaniclastic breccias with intense biotite-quartz-magnetite-albite alteration. The 
+Santos mine is located in the eastern limb of the north-northeast-trending Tierra Amarilla anticline, 
+and the rocks of the Santos mine are comprised mainly of the Punta del Cobre and Abundancia 
+Formations. The Alcaparrosa mine is located in the northern part of the Punta del Cobre mining 
+district, with the Punta del Cobre Formation subdivided into a Lower Andesite unit, which is succeeded by volcanoclastic breccias, albitophyre and pyroxene- scapolite hornfels interbedded with 
+garnetites. The Española deposit is in the south portion of Candelaria-Punta del Cobre district, and 
+occurs in the contact aureole between the Copiapó batholith and sedimentary and volcano-
+sedimentary rocks of the Chañarc illo Group and the Punta del Cobre Formation in a tectonically 
+depressed block controlled by San Gregorio fault system.  Mineralization  The copper-gold sulphide mineralization found at  the Candelaria Copper Mining Complex is 
+generally referred to as iron oxide copper gold (IOCG) mineralization. The sulphide mineralization occurs in breccias, stockwork veinlets, disseminatio ns in andesite, and as an internal tuff unit. There 
+are also some localized controls to mineralization in  the form of faults, breccias, veins, and foliation. 
+Candelaria has become an exploration model for Andean-type IOCG deposits that display close relationships to the plutonic complexes and broadly coeval fault systems. Depending on lithology 
+and the structural setting, the polymetallic sulphide mineralization can occur as  veins, hydrothermal 
+breccias, replacement mantos, and calcic skarns. The Candelaria IOCG system lies within the 
+thermal aureole of the Lower Cretaceous magmat ic arc plutonic suite in the Candelaria-Punta del 
+Cobre district.  The main mineralized body at the Candelaria mine is up to 400 metres thick in its central part and 
+thins towards the edges. In east-west sections , the mineralization has a lenticular, downward 
+concave shape with a steep eastern limb and a shallowly dipping western limb. The shape of the mineralized body in north-south sect ion is irregular. In plan view, the extent of the mineralization in 
+Candelaria is approximately 1,400 metres by 2,400 metres. The mineralized body was folded after its formation. The north-northeast-trending fold ax is corresponds to the Tierra Amarilla Anticline. 
+ In the Santos mine, three styles of mineralizatio n are observed: veins, mantos, and breccia bodies. 
+An important vein in the Santos Mine is the Isabel  Vein, which has a northwest striking orientation, 
+and extends over 1 kilometre in length and between 4 and 30 metres in width. Manto-type 
+mineralization occurs as tabular bodies located at  two sedimentary horizons located in the floor and 
+roof of the albitophyre. The manto mineralization is characterized by variable iron contents with 
+magnetite common in the north and deeper areas, and specular hematite in the south. Mineralization 
+occurs within breccia bodies, which are typically contained with the albitophyre and lower andesite 
+units and the mineralization generally forms steeply west-dipping and north-northwest- to northwest-
+striking bodies.  
+ 
+Mineralization at the Alcaparrosa mine principally occurs as mantos that trend to the northeast and 
+dip to the west. Ore mineralogy consists of chalco pyrite, pyrite, and magnetite, with trace pyrrhotite, 
+molybdenite, and arsenopyrite. Mineralization at t he Alcaparrosa mine also occurs as veinlets 
+defining dense stockwork, breccias as well as fi ne dissemination in biotite meta-andesites. High-
+grade bodies are also found in massive vein s striking north-northwest, north, and east. 
+ In the Española project area, mineralization occurs  within mantos hosted mainly in a brown garnet 
+skarn, and in lesser proportions within silica ho rnfels. Chalcopyrite is the primary copper sulfide 
+mineral found as clusters and in disseminated form, commonly associated with brown garnet 
+porphyroblasts. Near the surface and down to a dept h of approximately 70 m, the mineralization is 
+oxidized, characterized by the presence of chrysocolla, malachite, native copper, diogenite and 
+bornite. 
+ 
+Deposit Types 
+
+The copper-gold sulphide mineralization present at the Candelaria Copper Mining Complex is generally referred to as iron oxide copper gold (IOCG). Depending on lithology and the structural setting, the polymetallic sulphide mineralization can occur as veins, hydrothermal breccias, 
+replacement mantos, and calcic skarns.  The Candelaria IOCG deposit lies within the me tamorphic aureole of the Lower Cretaceous 
+magmatic arc plutonic complex that is located within the Candelaria-Punta del Cobre district, Atacama Region, northern Chile. IOCG deposits are primarily defined by their elevated magnetite 
+and / or hematite with elevated copper and gold contents. 
+
+Exploration 
+ 
+Ongoing exploration is conducted by the Candelaria Copper Mining Complex with the primary 
+purpose of supporting mining and increasing the esti mated Mineral Resources and Mineral Reserves 
+available for mining. Exploration is focused on the known mantos, veins, and breccia masses in 
+proximity to existing open pit and underground infras tructure. Historically, this strategy has proven 
+very effective in defining new Mineral Resources available for underground mining. Much of the 
+exploration is conducted from underground, requ iring significant underground development to 
+provide adequate drilling stat ions. Regional explorat ion is also undertaken on the large properties 
+surrounding the mines to identify targets and defi ne new areas with Mineral Resource potential. 
+ 
+From 2010 to the end of June 2022, Minera Candelaria and Minera Ojos del Salado have together 
+invested more than US$267M in exploration to ex pand the Mineral Resources primarily below the 
+Candelaria Open Pit, to the north and south of the pit, and at the three underground mines (Candelaria Underground, Santos and Alcaparrosa) . During this period, 3,780 core boreholes 
+(1,051,068 metres) were drilled requiring over 15,000 metres of underground development to 
+provide access for drilling. 
+
+In 2015, a new exploration and resource devel opment tool, Mineral Inventory Range Analysis 
+(MIRA), was initiated with the purpose to understan d the potential mineral inventory remaining in the 
+mines as well as within the Candelaria land hol dings. Brownfield explorat ion drilling began late in 
+2017 with surface drilling commencing in the south di strict of the Candelaria land concession in an 
+area called Española. A new Mineral Resource mode l was constructed with this data to support 
+Mineral Resource estimation. The Mineral Reso urce model was updated again in 2019, following 
+additional drilling of 8,027 metres in 34 boreholes that was carried out in 2019.The recent aggressive 
+exploration program has resulted in significant new discoveries with a positive impact particularly on 
+the life of the three underground mines. 
+ Building on this exploration success, future expl oration for the period 2023 to 2027 will focus on 
+maintaining operational fronts in the mines, target ing the lateral extensions of the areas investigated 
+since 2010 and exploring district targets to the nor th and south of mining infrastructure within the 
+Minera Candelaria and Minera Ojos del Salado land holdings. The planned exploration program 
+includes approximately 1,160 metres of underground development, 171,500 metres of core drilling, 
+and continued geophysical campaigns at a tota l estimated combined cost of US$48.0M. 
+ The exploration potential of the Candelaria Copper Mining Complex remains excellent. The qualified 
+person is of the opinion that continued exploratio n programs and the MIRA exploration and Mineral 
+Resource development initiative will continue to expand the underground Mineral Resource 
+estimates. 
+ 
+Drilling 
+ 
+Mineral Resources are estimated from information obtained from surface and underground boreholes. From 1990 to June 30, 2022, 4,689 core  and percussion boreholes (1,361,873 metres) 
+were drilled in and around the Candelaria mine. A pproximately 96% of all drilling comprised core 
+boreholes. 
+ 
+From 1990 to 2004, there were five exploration diamond drill holes drilled in Española totaling 
+2,861 metres. No exploration wo rk occurred between 2005 and 2016. From July 2017 to the end of 
+June 2022, 154 new diamond drill holes were completed totaling 44,952 metres. To date, Española 
+has 159 drill holes with 47,813 metres in total. In the Santos mine, a total 1,604 core boreholes 
+(323,591 metres) were drilled from underground and surface stations from 1988 until June 30, 2022. 
+The borehole data base for the Alcaparrosa mine contains 1,165 boreholes (283,133 metres) drilled 
+from surface and underground locations from 1990 to June 30, 2022. 
+ 
+The drilling and sampling procedures  are consistent with general ly recognized industry best 
+practices. The qualified person concludes that the samples are representative of the source 
+materials and there is no evidence that the sampling process introduced a bias. 
+ 
+Recovery Methods 
+
+Candelaria Copper Mining Complex operates two processing plants: Candelaria and Pedro Aguirre 
+Cerda (PAC). The Candelaria processing pl ant receives ore from the Candelaria open pit, 
+Candelaria underground North and South Sector and part of Santos underground mines and has a 
+nameplate capacity of 75,000 tonnes per day. The PA C processing plant receives ore exclusively 
+from the Santos underground mine and has a design capacity of 3,800 tonnes per day. 
+ 
+The annual throughput of Minera Candelaria from 20 05 to late 2022 averaged 26 Mtpa, equivalent to 
+70,800 tonnes per day at a plant utilization of 92%. The average process plant recoveries for copper, 
+gold and silver during this period were 93%, 72% and 83% respectively. Copper head grades are 
+forecast to be between 0.5% to 0.7% until 2035 befor e falling to below 0.4% at the end of mine life. 
+Reclaimed stockpiles and Candelaria Underground will be the only mill feed source at the end of 
+mine life. 
+ 
+In 2020, CCMC initiated the Candelaria Mill Optimization Project (CMOP) phase 3, also called 
+debottlenecking project, to increase concentrator throughput by an expected 2,000 tonnes per day. CAPR002061 – Lundin Mining Corporation 
+Technical Report for the Candelaria Copper Mining Complex, Chile Page xvii 
+ 
+The PAC concentrator of Minera Ojos del Salado has been in operation since 1929. The 
+concentrator processes 3,800 tonnes per day of fresh feed from the Santos underground mine with 
+an average head grade of 0.85% copper achieving a reco very of 94%. Final flotation tailings from the 
+PAC plant are pumped to a new line to Los Diques, installed in 2019. 
+ 
+Copper concentrates are trucked to the port at Punta Padrones, near Caldera. Concentrate grade 
+has averaged 30% copper since 2019. Candelaria  produces a clean concentrate containing no 
+penalty elements, with payable gold and silver . Gold content in the concentrate has been 
+consistently 5 to 6 g/t with silver between 80 to  100 g/t. Zinc grades in the concentrate since 2019 
+averaged 0.6%, which is below penalty levels. Fo r the PAC processing plant, copper concentrate 
+has averaged 30% copper, 5 g/t gold, and 67 g/t silver since 2004. Gold and silver recoveries are 
+slightly lower than Candelaria, at 72% each. 
+ Minera Candelaria has an agreement with a third- party company to process Candelaria's flotation 
+tailings and produce a magnetite concentrate as an additional source of by-product revenue. 
+ 
