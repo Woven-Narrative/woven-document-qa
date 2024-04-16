@@ -65,7 +65,7 @@ Sample includes sections on:
 """)
 
 # Query text
-query_text = st.text_input('Enter your question:', placeholder = 'Please provide a short summary.')
+query_text = st.text_input('Enter your question:')
 
 # Form input and query
 result = []
@@ -73,8 +73,9 @@ result = []
 with st.form('myform', clear_on_submit=True):
     submitted = st.form_submit_button('Submit')
     with st.spinner('Calculating...'):
-        response = generate_response(context, query_text)
-        result.append(response)
+        if query_text:
+            response = generate_response(context, query_text)
+            result.append(response)
 
 if len(result):
     st.info(response)
