@@ -7,6 +7,7 @@ client = OpenAI(
     api_key=st.secrets["OPENAI_KEY"],
 )
 
+@st.cache
 def generate_response(context, query_text): 
 
     ## Use a shorter template to reduce the number of tokens in the prompt
