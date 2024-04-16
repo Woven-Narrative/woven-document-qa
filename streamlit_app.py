@@ -32,12 +32,13 @@ def generate_response(context, query_text):
         }
     ],
     model="gpt-4",
+    max_tokens=128000
     )
         
     return chat_completion.choices[0].message.content
 
 # Open the file in read mode
-with open('files/lundin_mining_candelaria_2022_Summary.txt', 'r') as file:
+with open('files/lundin_mining_candelaria_202.txt', 'r') as file:
     # Read the text from the file
     context = file.read()
 
