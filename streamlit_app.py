@@ -31,7 +31,7 @@ def generate_response(context, query_text):
             "content": prompt,
         }
     ],
-    model="gpt-4-turbo-preview",
+    model="gpt-4-turbo",
     )
         
     return chat_completion.choices[0].message.content
